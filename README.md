@@ -21,6 +21,9 @@ Olá 👋, sou Gabriel Correia! Um estudante apaixonado por tecnologia e desenvo
 
 <br>
 
+[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-%230077B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gabriel-correia-portfolio.vercel.app)
+
+
 ---
 
 ## 🧠 Projetos em destaque:
