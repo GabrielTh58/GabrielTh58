@@ -1,22 +1,39 @@
-
 <h1 align="center">Hello World 👋</h1>
 
 <p align="left">
-Olá 👋, sou Gabriel! Um estudante apaixonado por Tecnologia.
-<br><br>
-- 📚 Atualmente estou estudando Engenharia de Software pela Uninter<br>
-- 🔭  Estou em busca da minha primeira oportunidade de emprego na área de TI. Meu sonho é trabalhar como desenvolvedor Fullstack. 
-  
+Olá 👋, sou Gabriel Correia! Um estudante apaixonado por tecnologia e desenvolvimento de software.<br><br>
+
+- 📚 Cursando Engenharia de Software pela Uninter  
+- 🚀 Formado pelo curso de Desenvolvimento Web com mentoria da Dev em Dobro  
+- 🎯 Buscando minha primeira oportunidade como desenvolvedor, com foco em Front-End e Fullstack  
+- 💼 Empreendedor desde 2021 no setor de estética automotiva, onde desenvolvi habilidades como organização, liderança, comunicação e tomada de decisão  
+- 💡 Acredito que tecnologia transforma vidas — por isso me dedico diariamente a aprender, evoluir e construir soluções que façam a diferença  
+
+</p>
+
 <details>
-  <summary>👩‍💻 More about me </summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 22 anos e atualmente moro em Curitiba. Tenho conhecimento em Html, Css, Js, React, Typescript. Também sou Empreendedor desde 2021, o que me ajudou a desenvolver habilidades importantes como trabalho em equipe, comunicação, atendimento ao cliente, gestão de negócio, negociação e liderança.
-
-  - ⚡ Gosto de ler, estudar, praticar esportes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas.
+  - Tenho 23 anos e moro em Curitiba - PR  
+  - Gosto de ler, estudar, praticar esportes e jogar nas horas vagas  
+  - Sou movido por desafios, aprendizado contínuo e colaboração  
 </details>
 
-
 <br>
+
+---
+
+## 🧠 Projetos em destaque:
+
+- 🔗 [Fynance Hub](https://fynance-hub.vercel.app/login)  
+  *Aplicativo fullstack para controle financeiro pessoal.*
+
+- 🌌 [Space Tourism Website](https://space-tourism-react-ten.vercel.app)  
+  *Website institucional feito com React e styled-components.*
+
+---
+
+## 🔗 Vamos nos conectar!
 
 <div> 
  <a href = "mailto:gabriel.956622@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,36 +42,53 @@ Olá 👋, sou Gabriel! Um estudante apaixonado por Tecnologia.
  </a> 
 </div>
 
-<br>
+---
+
+## 📊 GitHub Stats
 
 <div>
   <a href="https://github.com/GabrielTh58">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielTh58&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTh58&layout=compact&langs_count=6&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielTh58&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTh58&layout=compact&langs_count=6&theme=radical" />
+  </a>
 </div>
-  
-###
 
-<h2 align="left">🔥 Skills</h2>
+---
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+## 🔧 Skills
+
+### 🛠 Linguagens e Ferramentas:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40"  alt="HTML logo" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  height="40"  alt="CSS logo" />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="Javascript logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React logo" />          
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="Typescript logo" />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height="40" alt="Axios logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  height="40" alt="Git logo" />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  height="40" alt="VS Code Logo"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
 
-<br>
+
+---
+
