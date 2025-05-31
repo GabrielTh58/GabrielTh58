@@ -31,7 +31,7 @@ Olá 👋, sou Gabriel Correia! Um estudante apaixonado por tecnologia e desenvo
 - 🔗 [Fynance Hub](https://fynance-hub.vercel.app/login)  
   *Aplicativo fullstack para controle financeiro pessoal.*
 
-- 🌌 [Space Tourism Website](https://space-tourism-react-ten.vercel.app)  
+- 🌌 [Gam3r Store](http://ec2-18-230-217-138.sa-east-1.compute.amazonaws.com:3000)  
   *Website institucional feito com React e styled-components.*
 
 ---
