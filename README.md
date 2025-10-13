@@ -1,27 +1,26 @@
 <h1 align="center">Hello World 👋</h1>
 
 <p align="left">
-Olá 👋, sou Gabriel Correia! Um estudante apaixonado por tecnologia e desenvolvimento de software.<br><br>
+Olá 👋, sou Gabriel Oliveira! Um estudante apaixonado por tecnologia, desenvolvimento e arquitetura de software.<br><br>
 
-- 📚 Cursando Engenharia de Software pela Uninter  
-- 🚀 Formado pelo curso de Desenvolvimento Web com mentoria da Dev em Dobro  
-- 🎯 Buscando minha primeira oportunidade como desenvolvedor, com foco em Front-End e Fullstack  
-- 💼 Empreendedor desde 2021 no setor de estética automotiva, onde desenvolvi habilidades como organização, liderança, comunicação e tomada de decisão  
-- 💡 Acredito que tecnologia transforma vidas — por isso me dedico diariamente a aprender, evoluir e construir soluções que façam a diferença  
+- 📚 Cursando Engenharia de Software
+- 🎯 Desenvolvedor FullStack Javascript
+- 👨‍💻 Freelancer
+- 💡 Um bom software fala a língua do negócio, não só a dos desenvolvedores
 
 </p>
 
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
-
+  
   - Tenho 23 anos e moro em Curitiba - PR  
-  - Gosto de ler, estudar, praticar esportes e jogar nas horas vagas  
-  - Sou movido por desafios, aprendizado contínuo e colaboração  
+  - Gosto de ler, estudar, praticar esportes, jogar e apreciar um bom café ☕
+  - Sou movido pela curiosidade, evolução e propósito: transformar problemas em soluções e, através disso, impactar positivamente o mundo.
 </details>
 
 <br>
 
-[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-%230077B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gabriel-correia-portfolio.vercel.app)
+[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-%230077B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gabcode.vercel.app)
 
 
 ---
@@ -29,32 +28,13 @@ Olá 👋, sou Gabriel Correia! Um estudante apaixonado por tecnologia e desenvo
 ## 🧠 Projetos em destaque:
 
 - 🔗 [Fynance Hub](https://fynance-hub.vercel.app/login)  
-  *Aplicativo fullstack para controle financeiro pessoal.*
+  *Plataforma fullstack para controle financeiro.*
 
-- 🌌 [Gam3r Store](http://ec2-18-230-217-138.sa-east-1.compute.amazonaws.com:3000)  
-  *Website institucional feito com React e styled-components.*
+- 🔗 [Audyn](https://audyn.vercel.app)  
+  *Loja Virtual de produtos de áudio.*
 
----
-
-## 🔗 Vamos nos conectar!
-
-<div> 
- <a href = "mailto:gabriel.956622@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/gabriel-correia-241160299/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
- </a> 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div>
-  <a href="https://github.com/GabrielTh58">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielTh58&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTh58&layout=compact&langs_count=6&theme=radical" />
-  </a>
-</div>
+- 🔗 [Zaytek](https://zaytek.com.br)  
+  *Meu site Freelance.*
 
 ---
 
@@ -81,7 +61,11 @@ Olá 👋, sou Gabriel Correia! Um estudante apaixonado por tecnologia e desenvo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
+  <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
@@ -95,3 +79,13 @@ Olá 👋, sou Gabriel Correia! Um estudante apaixonado por tecnologia e desenvo
 
 ---
 
+## 🔗 Vamos nos conectar!
+
+<div> 
+ <a href = "mailto:gabriel.oliveira.dev.br@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/gcoliveira-dev" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+ </a> 
+</div>
+
+---
