@@ -27,10 +27,10 @@ Olá 👋, sou Gabriel Oliveira! Um estudante apaixonado por tecnologia, desenvo
 
 ## 🧠 Projetos em destaque:
 
-- 🔗 [Fynance Hub](https://fynance-hub.vercel.app/login)  
+- 🔗 [Fynance Hub](https://github.com/GabrielTh58/FynanceHub)  
   *Plataforma fullstack para controle financeiro.*
 
-- 🔗 [Audyn](https://audyn.vercel.app)  
+- 🔗 [Audyn](https://github.com/GabrielTh58/audyn)  
   *Loja Virtual de produtos de áudio.*
 
 - 🔗 [Zaytek](https://zaytek.com.br)  
