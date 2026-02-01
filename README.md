@@ -33,8 +33,8 @@ Olá 👋, sou Gabriel Oliveira! Um estudante apaixonado por tecnologia, desenvo
 - 🔗 [Audyn](https://github.com/GabrielTh58/audyn)  
   *Loja Virtual de produtos de áudio.*
 
-- 🔗 [Zaytek](https://zaytek.com.br)  
-  *Meu site Freelance.*
+- 🔗 [Zaytek](https://github.com/GabrielTh58/SpySec)  
+  *Plataforma educativa e gamificada de cibersegurança(Saas).*
 
 ---
 
