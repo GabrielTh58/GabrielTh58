@@ -1,40 +1,27 @@
-<h1 align="center">Hello World 👋</h1>
+# Olá 👋, sou Gabriel Oliveira
 
-<p align="left">
-Olá 👋, sou Gabriel Oliveira! Um estudante apaixonado por tecnologia, desenvolvimento e arquitetura de software.<br><br>
+Desenvolvedor Fullstack Jr focado em construir aplicações web que resolvem problemas reais de negócio. Atuo como freelancer desenvolvendo sistemas, sites, automações e aplicações para empresas locais.
 
 - 📚 Cursando Engenharia de Software
 - 🎯 Desenvolvedor FullStack Javascript
 - 👨‍💻 Freelancer
+- ⚙️ Experiência com front-end, back-end e banco de dados
 - 💡 Um bom software fala a língua do negócio, não só a dos desenvolvedores
 
-</p>
-
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
-  
-  - Tenho 23 anos e moro em Curitiba - PR  
-  - Gosto de ler, estudar, praticar esportes, jogar e apreciar um bom café ☕
-  - Sou movido pela curiosidade, evolução e propósito: transformar problemas em soluções e, através disso, impactar positivamente o mundo.
-</details>
-
 <br>
-
-[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-%230077B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gabcode.vercel.app)
-
 
 ---
 
 ## 🧠 Projetos em destaque:
 
-- 🔗 [Fynance Hub](https://github.com/GabrielTh58/FynanceHub)  
-  *Plataforma fullstack para controle financeiro.*
+#### 🔐 [SpySec](https://github.com/GabrielTh58/SpySec)  
+  *Plataforma de treinamento gamificada em cibersegurança com foco em prevenção de ataques e conscientização (phishing, engenharia social, vazamento de dados).*
 
-- 🔗 [Audyn](https://github.com/GabrielTh58/audyn)  
-  *Loja Virtual de produtos de áudio.*
+#### 💰 [Fynance Hub](https://github.com/GabrielTh58/FynanceHub)  
+  *Sistema de gestão financeira com controle de dados e visualização em dashboard.*
 
-- 🔗 [SpySec](https://github.com/GabrielTh58/SpySec)  
-  *Plataforma educativa e gamificada de cibersegurança(Saas).*
+#### 💈 [Barba Brutal](https://github.com/GabrielTh58/Barba-Brutal) 
+  *Aplicação com landing page e sistema de agendamento com autenticação e painel administrativo.*
 
 ---
 
@@ -47,6 +34,8 @@ Olá 👋, sou Gabriel Oliveira! Um estudante apaixonado por tecnologia, desenvo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"  />     
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -58,6 +47,8 @@ Olá 👋, sou Gabriel Oliveira! Um estudante apaixonado por tecnologia, desenvo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" alt="Prisma"  />  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
   <img width="12" />
@@ -79,13 +70,10 @@ Olá 👋, sou Gabriel Oliveira! Um estudante apaixonado por tecnologia, desenvo
 
 ---
 
-## 🔗 Vamos nos conectar!
-
-<div> 
+## 🔗 Contato & Links
+[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-%230077B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gabrieloliveiradev.vercel.app)
  <a href = "mailto:gabriel.oliveira.dev.br@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/gcoliveira-dev" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
  </a> 
-</div>
 
----
