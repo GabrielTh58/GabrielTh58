@@ -1,12 +1,13 @@
 # Olá 👋, sou Gabriel Oliveira
 
-Desenvolvedor Fullstack Jr focado em construir aplicações web que resolvem problemas reais de negócio. Atuo como freelancer desenvolvendo sistemas, sites, automações e aplicações para empresas locais.
+Desenvolvedor Fullstack Jr e estudante de Engenharia de Software. Trabalho como freelancer desenvolvendo soluções web para empresas locais, principalmente criação de sites.
 
 - 📚 Cursando Engenharia de Software
-- 🎯 Desenvolvedor FullStack Javascript
-- 👨‍💻 Freelancer
-- ⚙️ Experiência com front-end, back-end e banco de dados
-- 💡 Um bom software fala a língua do negócio, não só a dos desenvolvedores
+- 🚀 Freelancer
+- ⚙️ Desenvolvimento full stack (front, back e banco de dados)
+- 🎯 Foco em aplicações web com JavaScript/TypeScript
+- 💡 Interesse em arquitetura de software e estruturação de aplicações
+- 🔎 Aberto a oportunidades como dev ou projetos freelance.
 
 <br>
 
@@ -15,13 +16,13 @@ Desenvolvedor Fullstack Jr focado em construir aplicações web que resolvem pro
 ## 🧠 Projetos em destaque:
 
 #### 🔐 [SpySec](https://github.com/GabrielTh58/SpySec)  
-  *Plataforma de treinamento gamificada em cibersegurança com foco em prevenção de ataques e conscientização (phishing, engenharia social, vazamento de dados).*
+  *Plataforma de treinamento gamificada em cibersegurança com personalização de ensino via IA com foco em prevenção de ataques e conscientização para usuarios comuns e PMEs.*
 
 #### 💰 [Fynance Hub](https://github.com/GabrielTh58/FynanceHub)  
   *Sistema de gestão financeira com controle de dados e visualização em dashboard.*
 
 #### 💈 [Barba Brutal](https://github.com/GabrielTh58/Barba-Brutal) 
-  *Aplicação com landing page e sistema de agendamento com autenticação e painel administrativo.*
+  *Aplicação com landing page e sistema de agendamento com autenticação e painel administrativo para barbearia.*
 
 ---
 
